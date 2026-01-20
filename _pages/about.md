@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior undergraduate student from the Experimental Class of College of Computer Science and Technology, Beijing University of Technology.
+I'm a junior undergraduate student from the Experimental Class of Computer Science and Technology, Beijing University of Technology.
 
 Education
 ======
 Beijing University of Technology
-- B.Eng in Computer Science
+- B.Eng in Computer Science and Technology
 - 2023.9 - 2027.7 (Expected)
 - **WAM**: 95.13/100.00
 - **Rank**: 1/63
