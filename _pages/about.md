@@ -11,24 +11,24 @@ Hi, I'm Yi Shan, a junior undergraduate student from the Experimental Class of C
 
 ## Education
 
-Beijing University of Technology
-- B.Eng in Computer Science and Technology
-- 2023.9 - 2027.7 (Expected)
-- **WAM**: 95.13/100.00
+Beijing University of Technology  
+- B.Eng in Computer Science and Technology  
+- 2023.9 - 2027.7 (Expected)  
+- **WAM**: 95.13/100.00  
 - **Rank**: 1/63
 
 ## Publications
 
 **Hypergraph-Based Multi-View Multi-Label Classification via Adaptive High-Order Semantic Fusion**  
-***Yi Shan**, Liyang Gao, Yuena Lin, Gengyu Lyu, Zhen Yang, Honggui Han*  
-**AAAI 2026** (CCF-A / CORE A\*) (Oral)
+_**Yi Shan**, Liyang Gao, Yuena Lin, Gengyu Lyu, Zhen Yang, Honggui Han_  
+**AAAI 2026 (CCF-A / CORE A\*)** (Oral)
 
 **Tensorized Multi-View Multi-Label Classification via Laplace Tensor Rank**  
-*Qiyu Zhong, **Yi Shan**, Haobo Wang, Zhen Yang, Gengyu Lyu*  
+_Qiyu Zhong, **Yi Shan**, Haobo Wang, Zhen Yang, Gengyu Lyu_  
 **ICML 2025 (CCF-A / CORE A\*)** (Poster)
 
 **PankRAG: Enhancing Graph Retrieval with Globally-Aware Query Resolution and Dependency-Aware Reranking Mechanism**  
-*Ningyuan Li, Junrui Liu, **Yi Shan**, Minghui Huang, Tong Li, Ziren Gong*  
+_Ningyuan Li, Junrui Liu, **Yi Shan**, Minghui Huang, Tong Li, Ziren Gong_  
 **ICASSP 2026 (CCF-B / CORE B)**
 
 ## Awards
