@@ -21,7 +21,7 @@ Beijing University of Technology
 
 **Hypergraph-Based Multi-View Multi-Label Classification via Adaptive High-Order Semantic Fusion**  
 ***Yi Shan**, Liyang Gao, Yuena Lin, Gengyu Lyu, Zhen Yang, Honggui Han*  
-**AAAI 2026 (CCF-A / CORE A\*)** (Oral)
+**AAAI 2026** (CCF-A / CORE A\*) (Oral)
 
 **Tensorized Multi-View Multi-Label Classification via Laplace Tensor Rank**  
 *Qiyu Zhong, **Yi Shan**, Haobo Wang, Zhen Yang, Gengyu Lyu*  
