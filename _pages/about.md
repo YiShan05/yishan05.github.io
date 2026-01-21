@@ -35,5 +35,5 @@ _Ningyuan Li, Junrui Liu, **Yi Shan**, Minghui Huang, Tong Li, Ziren Gong_
 
 **National Scholarship**, 2025  
 **Xiaomi Special Scholarship**, 2025  
-**Nomination Award for *Science and Technology Star* of Beijing University of Technology**, 2025  
+**Nomination Award for *Science and Technology Star* of BJUT**, 2025  
 Beijing University of Technology Academic Excellence Scholarship, 2024~2025
