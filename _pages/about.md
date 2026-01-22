@@ -32,6 +32,10 @@ _Qiyu Zhong, **Yi Shan**, Haobo Wang, Zhen Yang, Gengyu Lyu_
 _Ningyuan Li, Junrui Liu, **Yi Shan**, Minghui Huang, Tong Li, Ziren Gong_  
 **ICASSP 2026 (CCF-B / CORE B)**
 
+**Label Driven Contrastive Fusion for Multi-View Multi-Label Learning**  
+_Zhun Li, **Yi Shan**, Xiangning Zeng, Songxuan Shi, Gengyu Lyu_  
+**Frontiers of Computer Science 2026 (CCF-B)**
+
 ## Awards
 
 **National Scholarship**, 2025  
