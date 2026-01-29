@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi, I'm Yi Shan, a junior undergraduate student from the Experimental Class of Computer Science and Technology, [Beijing University of Technology (BJUT)](https://www.bjut.edu.cn). I am currently seeking opportunities to pursue a PhD in the field of LLM. My research interest focus on post-training of LLMs and multi-view learning.  
-During my multi-view learning research period, I am grateful to [Prof. Gengyu Lyu](https://gengyulyu.github.io/homepage/) for his guidance, which has cultivated my scientific research thinking.
+During my multi-view learning research period, I am grateful to Prof. [Gengyu Lyu](https://gengyulyu.github.io/homepage/) for his guidance, which has cultivated my scientific research thinking.
 
 ## Education
 
