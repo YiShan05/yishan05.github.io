@@ -36,6 +36,10 @@ _Ningyuan Li, Junrui Liu, **Yi Shan**, Minghui Huang, Tong Li, Ziren Gong_
 _Zun Li, **Yi Shan**, Xiangning Zeng, Songxuan Shi, Gengyu Lyu_  
 **Frontiers of Computer Science 2026 (CCF-B)**
 
+**DF^2-VB: Dual-level Fuzzy Fusion with View-specific Boosting for Multi-view Multi-label Classification**  
+_Yuena Lin, Haichun Cai, **Yi Shan**, Hao Wei, Yongjian Deng, Zhen Yang, Gengyu Lyu_  
+**CVPR 2026 (CCF-A / CORE A\*)**
+
 ## Awards
 
 **National Scholarship**, 2025  
